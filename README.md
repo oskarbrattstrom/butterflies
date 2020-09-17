@@ -14,7 +14,7 @@ To use the EPUB files you need to install a EPUB reader app on your phone.
 
 For iPhones the 'Books' app preinstalled with iOS should do the trick. 
 
-For Android phones most epub readers will distort the layout. The best free app tested to date where full functionality is retained is 'Reasily' that can be found on Google Play.
+For Android phones most epub readers will distort the layout. The best free app tested to date where full functionality is retained is 'Reasily' that can be found on Google Play. A screenshot shwoing the Reasily app is available as 'Reasily.jpg'
 
 To open the guides on your phone you will need to store them somewhere on the phone or download them from your own cloud service. I wont be able to assist with individual queries on how to get the apps to work as I am not a phone expert. 
 
